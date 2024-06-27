@@ -1,0 +1,22 @@
+
+# hpc files
+*.sh
+*.err
+*.out
+*.ipynb
+
+# config
+global_config.py
+
+# __pycache__
+**/__pycache__
+
+# dev
+/notebooks
+
+# store trained model and results
+/records
+
+# data
+/datafiles
+
