@@ -19,7 +19,6 @@ If you find this code helpful in your research, please cite the following paper:
 *This paper is accepted at MICCAI 2024, Morocco (the 27th International Conference on Medical Image Computing and Computer Assisted Intervention).*
 
 ## Virtual Environment Setup
-#TODO
 The code is implemented in Python 3.9 using the Pytorch library. We only tested the code with Pytorch 3.9. One way of getting all the requirements is by using virtualenv and the requirements.txt file.
 
 `pip install -r requirements.txt`
